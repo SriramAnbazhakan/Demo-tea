@@ -1,1 +1,2 @@
 b3 first line
+second line of b3
